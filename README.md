@@ -1,4 +1,4 @@
-# Weapon Limits Adjusterr
+# Weapon Limits Adjuster
 
 The game has a hardcoded limit on the number of weapons.meta files that can be loaded and on the total number of weapon components that can be defined, which Rockstar increases everytime new weapons.meta or weapon components are added in DLCs.
 
